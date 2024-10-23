@@ -1,8 +1,3 @@
-https://www.youtube.com/@jocoding
-All works are done by Jocoding.
-
-No my works intended.
-
 The goal of this project was to know how to take advatage of AI
 by making an AI bitcoin trader.
 
